@@ -22,7 +22,7 @@
 
 # Database
 
-Here,we used Mysql DB or Mongo DB depending on the kind data we receive
+Here,we used Mysql DB
 sql dump file:
 
 - /src/main/resources/db_backup.sql
